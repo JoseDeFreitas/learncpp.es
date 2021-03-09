@@ -2,6 +2,8 @@
 
 > Contenido de learncpp.com traducido al español
 
+| **[Contenido](#contenido)** - **[Contribuir](#contribuir)** - **[Apoyo](#apoyo)** |
+
 Este repositorio contiene las lecciones del sitio web [learncpp.com](https://learncpp.com)
 traducidas al español. **Yo no creé estas lecciones, solo las traduje del inglés al
 español**. Todo el crédito del contenido va a los autores de [learncpp.com](https://www.learncpp.com/about/).
@@ -346,3 +348,13 @@ que será revisada para su aprobación.
 Para más información sobre esto, lee el archivo [CONTRIBUTING.md](/CONTRIBUTING.md).
 No dudes en [abrir un issue](https://github.com/JoseDeFreitas/learncpp.es/issues/new) si
 necesitas ayuda en relación al repositorio.
+
+## Apoyo
+
+Puedes apoyar al proyecto fuente en su sitio web [learncpp.com](https://www.learncpp.com/about/#Support).
+Los autores de ese sitio web escribieron todas las lecciones en inglés y son los
+creadores originales.
+
+También puedes apoyarme a mí, que traduje todas las lecciones al idioma español:
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D62AAG8)
