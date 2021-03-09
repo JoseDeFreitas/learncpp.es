@@ -1,8 +1,11 @@
 # [learncpp.com](https://learncpp.com) en español
 
+[![](https://img.shields.io/discord/818985994455613482?style=flat-square&logo=discord)](https://discord.gg/baZDt2cAFg)
+[![](https://img.shields.io/github/last-commit/JoseDeFreitas/learncpp.es?style=flat-square)](https://github.com/JoseDeFreitas/learncpp.es)
+
 > Contenido de learncpp.com traducido al español
 
-| **[Contenido](#contenido)** - **[Contribuir](#contribuir)** - **[Apoyo](#apoyo)** |
+| **[Contenido](#contenido)** | **[Contribuir](#contribuir)** | **[Apoyo](#apoyo)** |
 
 Este repositorio contiene las lecciones del sitio web [learncpp.com](https://learncpp.com)
 traducidas al español. **Yo no creé estas lecciones, solo las traduje del inglés al
