@@ -29,7 +29,7 @@ en inglés por si alguien quiere buscar más información sobre el término en c
 
 ## Contenido
 
-Las lecciones están en orden. Es reomendable que sigas el orden expuesto.
+Las lecciones están en orden. Es recomendable que sigas el orden expuesto.
 
 - [**Capítulo 00** Introducción - Empezando](https://github.com/JoseDeFreitas/learncpp.es/tree/main/Contenido/Cap%C3%ADtulo%2000%20Introducci%C3%B3n%20-%20Empezando)
     - [**00.01** Introducción a estos tutoriales](https://github.com/JoseDeFreitas/learncpp.es/blob/main/Contenido/Cap%C3%ADtulo%2000%20Introducci%C3%B3n%20-%20Empezando/00.01%20Introducci%C3%B3n%20a%20estos%20tutoriales.md)
