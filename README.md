@@ -5,7 +5,7 @@
 
 > Contenido de learncpp.com traducido al español
 
-| **[Contenido](#contenido)** | **[Contribuir](#contribuir)** | **[Apoyo](#apoyo)** |
+**[Contenido](#contenido)** - **[Contribuir](#contribuir)** - **[Apoyo](#apoyo)**
 
 Este repositorio contiene las lecciones del sitio web [learncpp.com](https://learncpp.com)
 traducidas al español. **Yo no creé estas lecciones, solo las traduje del inglés al
