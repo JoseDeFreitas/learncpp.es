@@ -1,4 +1,4 @@
-# [learncpp.com](https://learncpp.com) en español
+# learncpp.es
 
 [![](https://img.shields.io/discord/818985994455613482?style=flat-square&logo=discord)](https://discord.gg/baZDt2cAFg)
 [![](https://img.shields.io/github/last-commit/JoseDeFreitas/learncpp.es?style=flat-square)](https://github.com/JoseDeFreitas/learncpp.es)
