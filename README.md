@@ -36,7 +36,7 @@ Las lecciones están en orden. Es recomendable que sigas el orden expuesto.
     - [**00.02** Introducción a los lenguajes de programación](/Contenido/Cap%C3%ADtulo%2000%20Introducci%C3%B3n%20-%20Empezando/00.02%20Introducci%C3%B3n%20a%20los%20lenguajes%20de%20programaci%C3%B3n.md)
     - [**00.03** Introducción a C, C++](/Contenido/Cap%C3%ADtulo%2000%20Introducci%C3%B3n%20-%20Empezando/00.03%20Introducci%C3%B3n%20a%20C%2C%20C%2B%2B.md)
     - [**00.04** Introducción al desarrollo en C++](/Contenido/Cap%C3%ADtulo%2000%20Introducci%C3%B3n%20-%20Empezando/00.04%20Introducci%C3%B3n%20al%20desarrollo%20en%20C%2B%2B.md)
-    - [**00.05** Introducción al compilador, el vinculador y las librerías](/Contenido/Cap%C3%ADtulo%2000%20Introducci%C3%B3n%20-%20Empezando/00.05%20Introducci%C3%B3n%20al%20compilador%2C%20el%20vinculador%20y%20las%20librer%C3%ADas.md)
+    - [**00.05** Introducción al compilador, el enlazador y las librerías](/Contenido/Cap%C3%ADtulo%2000%20Introducci%C3%B3n%20-%20Empezando/00.05%20Introducci%C3%B3n%20al%20compilador%2C%20el%20enlazador%20y%20las%20librer%C3%ADas.md)
     - [**00.06** Instalando un Entorno de Desarrollo Integrado](/Contenido/Cap%C3%ADtulo%2000%20Introducci%C3%B3n%20-%20Empezando/00.06%20Instalando%20un%20Entorno%20de%20Desarrollo%20Integrado.md)
     - [**00.07** Compilando tu primer programa](/Contenido/Cap%C3%ADtulo%2000%20Introducci%C3%B3n%20-%20Empezando/00.07%20Compilando%20tu%20primer%20programa.md)
     - [**00.08** Problemas comunes en C++](/Contenido/Cap%C3%ADtulo%2000%20Introducci%C3%B3n%20-%20Empezando/00.08%20Problemas%20comunes%20en%20C%2B%2B.md)
