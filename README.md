@@ -1,7 +1,8 @@
-# learncpp.es
+# [learncpp.es](https://learncppes.rtfd.io)
 
-[![](https://img.shields.io/discord/818985994455613482?style=flat-square&logo=discord)](https://discord.gg/baZDt2cAFg)
-[![](https://img.shields.io/github/last-commit/JoseDeFreitas/learncpp.es?style=flat-square)](https://github.com/JoseDeFreitas/learncpp.es)
+[![](https://readthedocs.org/projects/learncppes/badge/?version=latest)](https://learncppes.rtfd.io)
+[![](https://img.shields.io/discord/818985994455613482?logo=discord)](https://discord.gg/baZDt2cAFg)
+[![](https://img.shields.io/github/last-commit/JoseDeFreitas/learncpp.es)](https://github.com/JoseDeFreitas/learncpp.es)
 
 > Contenido de learncpp.com traducido al español
 
