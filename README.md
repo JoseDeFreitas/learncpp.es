@@ -349,7 +349,8 @@ la traducción, puedes hacerlo fácilmente haciendo una copia de este proyecto, 
 una rama nueva, modificando los archivos que consideres y enviando una pull request
 que será revisada para su aprobación.
 
-Para más información sobre esto, lee el archivo [CONTRIBUTING.md](/CONTRIBUTING.md).
+Para más información sobre esto, lee el archivo [CONTRIBUTING.md](/CONTRIBUTING.md) y
+el archivo [CODE-OF-CONDUCT.md](/CODE-OF-CONDUCT.md).
 No dudes en [abrir un issue](https://github.com/JoseDeFreitas/learncpp.es/issues/new) si
 necesitas ayuda en relación al repositorio.
 
