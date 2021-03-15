@@ -13,7 +13,7 @@ traducidas al español. **Yo no creé estas lecciones, solo las traduje del ingl
 español**. Todo el crédito del contenido va a los autores de [learncpp.com](https://www.learncpp.com/about/).
 
 [learncpp.com](https://learncpp.com) es un sitio web que contiene lecciones sobre el
-lenguaje de programación C++. Esta guía sirve para principiantes que no están envueltos
+lenguaje de programación C++. Esta guía sirve para principiantes que no están metidos
 en el mundo de la programación, así como para experimentados que quieran repasar algún
 tema que necesiten.
 
