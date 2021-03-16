@@ -4,7 +4,7 @@
 [![](https://img.shields.io/discord/818985994455613482?logo=discord)](https://discord.gg/baZDt2cAFg)
 [![](https://img.shields.io/github/last-commit/JoseDeFreitas/learncpp.es)](https://github.com/JoseDeFreitas/learncpp.es)
 
-> Contenido de learncpp.com traducido al español
+> Contenido de learncpp.com traducido al español; guía completa de C++.
 
 **[Contenido](#contenido)** - **[Contribuir](#contribuir)** - **[Apoyo](#apoyo)**
 
