@@ -6,21 +6,21 @@
 
 > Contenido de learncpp.com traducido al español; guía completa de C++.
 
-**[Contenido](#contenido)** - **[Contribuir](#contribuir)** - **[Apoyo](#apoyo)**
-
 Este repositorio contiene las lecciones del sitio web [learncpp.com](https://learncpp.com)
 traducidas al español. **Yo no creé estas lecciones, solo las traduje del inglés al
 español**. Todo el crédito del contenido va a los autores de [learncpp.com](https://www.learncpp.com/about/).
 
 [learncpp.com](https://learncpp.com) es un sitio web que contiene lecciones sobre el
-lenguaje de programación C++. Esta guía sirve para principiantes que no están metidos
-en el mundo de la programación, así como para experimentados que quieran repasar algún
-tema que necesiten.
+lenguaje de programación C++. Esta guía sirve para principiantes que no están en el
+mundo de la programación, así como para experimentados que quieran repasar algún tema.
 
-Hace tiempo encontré este sitio y me gustaron mucho las lecciones que contiene.
+Hace tiempo encontré este sitio web y me gustó mucho las lecciones que contiene.
 Me tomé el atrevimiento de traducir todo el contenido de inglés a español para que
-la comunidad de hablantes del español puedan leer estas lecciones en su idioma nativo,
-cosa que puede ser de mucha ayuda.
+la comunidad de hispanohablantes puedan leer estas lecciones en su idioma nativo,
+cosa que puede ser de mucha ayuda. Recalco que el acento de español usado en las
+lecciones es de américa, aunque no utilizo ninguna palabra específica de algún
+país o región, por lo que cualquier persona puede leer las lecciones entendiendo
+todo.
 
 Las traducciones están hechas lo más fiel posible a los archivos originales para
 mantener las mismas ideas y declaraciones acorde a cómo los escribieron sus autores.
