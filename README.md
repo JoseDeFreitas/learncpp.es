@@ -53,7 +53,7 @@ Las lecciones están en orden. Es recomendable que sigas el orden expuesto.
     - [**01.05** Introducción a iostream - cout, cin y endl](/Contenido/Cap%C3%ADtulo%2001%20Fundamentos%20de%20C%2B%2B/01.05%20Introducci%C3%B3n%20a%20iostream%20-%20cout%2C%20cin%20y%20endl.md)
     - [**01.06** Variables no inicializadas y comportamientos no definidos](/Contenido/Cap%C3%ADtulo%2001%20Fundamentos%20de%20C%2B%2B/01.06%20Variables%20no%20inicializadas%20y%20comportamientos%20no%20definidos.md)
     - [**01.07** Palabras reservadas e identificadores](/Contenido/Cap%C3%ADtulo%2001%20Fundamentos%20de%20C%2B%2B/01.07%20Palabras%20reservadas%20e%20identificadores.md)
-    - [**01.08** Espacios en blanco y el formato básico](/Contenido/Cap%C3%ADtulo%2001%20Fundamentos%20de%20C%2B%2B/01.08%20Espacios%20en%20blanco%20y%20el%20formato%20b%C3%A1sico.md)
+    - [**01.08** Espacios en blanco y el formateo básico](/Contenido/Cap%C3%ADtulo%2001%20Fundamentos%20de%20C%2B%2B/01.08%20Espacios%20en%20blanco%20y%20el%20formateo%20b%C3%A1sico.md)
     - [**01.09** Introducción a los literales y los operadores](/Contenido/Cap%C3%ADtulo%2001%20Fundamentos%20de%20C%2B%2B/01.09%20Introducci%C3%B3n%20a%20los%20literales%20y%20los%20operadores.md)
     - [**01.10** Introducción a las expresiones](/Contenido/Cap%C3%ADtulo%2001%20Fundamentos%20de%20C%2B%2B/01.10%20Introducci%C3%B3n%20a%20las%20expresiones.md)
     - [**01.11** Desarrollando tu primer programa](/Contenido/Cap%C3%ADtulo%2001%20Fundamentos%20de%20C%2B%2B/01.11%20Desarrollando%20tu%20primer%20programa.md)
