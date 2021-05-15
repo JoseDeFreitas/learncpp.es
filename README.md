@@ -4,7 +4,7 @@
 [![](https://img.shields.io/discord/818985994455613482?logo=discord)](https://discord.gg/baZDt2cAFg)
 [![](https://img.shields.io/github/last-commit/JoseDeFreitas/learncpp.es)](https://github.com/JoseDeFreitas/learncpp.es)
 
-> Contenido de learncpp.com traducido al español; guía completa de C++.
+> Guía completa de C++; contenido de learncpp.com traducido al español. 
 
 Este repositorio contiene las lecciones del sitio web [learncpp.com](https://learncpp.com)
 traducidas al español. **Yo no creé estas lecciones, solo las traduje del inglés al
